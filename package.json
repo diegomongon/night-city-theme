@@ -2,7 +2,13 @@
   "name": "night-city-theme",
   "displayName": "night-city-theme",
   "description": "night city theme",
+  "publisher": "diegomongon",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegomongon/night-city-theme.git"
+  },
   "engines": {
     "vscode": "^1.107.0"
   },
@@ -12,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark",
+        "label": "night-city-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-color-theme.json"
       }
