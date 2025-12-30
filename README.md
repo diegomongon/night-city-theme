@@ -1,5 +1,13 @@
 # night-city-theme README
 
+
+## Preview
+
+Tema **Night City Theme** em ação:
+
+![Theme Preview](images/screenshot.png)
+Inspired by nighttime palettes with soft contrast — great for long coding sessions.
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
