@@ -1,0 +1,21 @@
+{
+  "name": "night-city-theme",
+  "displayName": "night-city-theme",
+  "description": "night city theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-color-theme.json"
+      }
+    ]
+  }
+}
